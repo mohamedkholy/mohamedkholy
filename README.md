@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedkholy
-- 👀 I’m interested in building apps
-- 🌱 I’m currently learning building android apps with java and kotlin
+- 👀 I’m interested in developing apps
+- 🌱 I’m currently learning developing android apps with java and kotlin
 - 📫 How to reach me mohamed.elkholy14920@gmail.com
 
 <!---
